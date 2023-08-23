@@ -1,0 +1,21 @@
+.stackContainer {
+  max-width: 72rem;
+}
+
+.heroImageContainer {
+  height: 6rem;
+  width: 6rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.heroImageContainerMobile {
+  height: 6rem;
+  width: 2.5rem;
+  position: relative;
+  cursor: pointer;
+}
+
+.heroImage {
+  object-fit: contain;
+}

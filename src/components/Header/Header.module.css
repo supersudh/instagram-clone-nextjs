@@ -19,3 +19,16 @@
 .heroImage {
   object-fit: contain;
 }
+
+.searchInput {
+  border: 1px solid rgba(107, 114, 128);
+  background-color: rgba(249, 250, 251);
+  padding-left: 2.5rem;
+  border-radius: 6px;
+}
+
+.searchIconContainer {
+  z-index: 999;
+  bottom: 0.4rem;
+  left: 0.25rem;
+}

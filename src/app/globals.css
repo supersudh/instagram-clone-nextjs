@@ -1,0 +1,15 @@
+.text-gray-500 {
+  color: rgba(107, 114, 128);
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.text-sm {
+  font-size: 14px;
+}

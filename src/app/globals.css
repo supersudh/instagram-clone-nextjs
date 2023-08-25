@@ -13,3 +13,22 @@
 .text-sm {
   font-size: 14px;
 }
+
+.icon {
+  height: 1.5rem;
+  cursor: pointer;
+  color: #000;
+  transition-property: transform;
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
+
+.icon:hover {
+  scale: 1.25;
+}
+
+.user-image {
+  height: 2.5rem;
+  border-radius: 9999px;
+  cursor: pointer;
+}

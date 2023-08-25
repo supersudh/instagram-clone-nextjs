@@ -25,7 +25,6 @@ export default function Stories() {
       gap={2}
       padding={3}
       alignItems="center"
-      justifyContent="center"
       className={styles.storiesContainer}
     >
       {

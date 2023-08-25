@@ -1,0 +1,22 @@
+.storyImage {
+  cursor: pointer;
+  height: 3.5rem;
+  border-radius: 999px;
+  padding: 1.5px;
+  border: 2px solid rgb(239 68 68);
+  transition-property: all;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+}
+
+.storyImage:hover {
+  scale: 1.1;
+}
+
+.username {
+  width: 60px; 
+  font-size: 0.75rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
